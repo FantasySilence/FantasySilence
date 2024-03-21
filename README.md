@@ -16,7 +16,7 @@
 
 - 👨‍💻 当前技术栈：Python | Java | SQL
 - 🏭项目：[数值分析算法包](https://github.com/FantasySilence/NumericalAnalysis)，[机器学习算法包](https://github.com/FantasySilence/ML-Method)，[Minecraft全物品助手](https://github.com/FantasySilence/mc-item)
-- 💬 联系我：Email：1635793009@qq.com | QQ: 1735793009
+- 💬 联系我：Email：1735793009@qq.com | QQ: 1735793009
 
 
 
