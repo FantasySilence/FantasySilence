@@ -1,16 +1,33 @@
-### Hi there 👋
+# ヾ(≧▽≦*)o 你好！🎉 🎉 🎉
 
-<!--
-**FantasySilence/FantasySilence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😈我是御河DE天街
+
+
+
+目前专注与数值计算，数据分析，机器学习，桌面应用开发等各种有意思的项目。
+
+
+
+## 🙋‍♂️ 关于我
+
+
+
+- 👨‍💻 当前技术栈：Python | Java | SQL
+- 🏭项目：[数值分析算法包](https://github.com/FantasySilence/NumericalAnalysis)，[机器学习算法包](https://github.com/FantasySilence/ML-Method)，[Minecraft全物品助手](https://github.com/FantasySilence/mc-item)
+- 💬 联系我：Email：1635793009@qq.com | QQ: 1735793009
+
+
+
+## ✨ 年度总结
+
+<a href="#"><img height="150rem" src="https://github-readme-stats.vercel.app/api/?username=FantasySilence&show_icons=true&title_color=fb7299&icon_color=fb7299"></a> <a href="#"><img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=FantasySilence&layout=compact&title_color=fb7299&hide=jupyter%20notebook"></a>
+
+
+
+## 📅 当前计划
+
+- [ ] 学习Java
+- [ ] 学习Python网页开发与爬虫
+- [ ] 学习数据库与小应用开发
